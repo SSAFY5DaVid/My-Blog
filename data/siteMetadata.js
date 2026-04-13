@@ -1,9 +1,9 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Issue Column Blog',
+  title: 'Global Issues',
   author: 'D W K',
-  headerTitle: 'Issue Column Blog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  headerTitle: 'Global Issues',
+  description: 'Stay informed with expert insights on global geopolitics, international relations, and economic trends.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
